@@ -1,0 +1,7 @@
+{
+    "name": "thewallbackend",
+    "description": "the wall",
+    "repository": "https://github.com/Mokagbue/thewallbackend.git",
+    "keywords": ["node", "express", "static"],
+    "image": "heroku/nodejs"
+}
